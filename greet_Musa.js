@@ -4,3 +4,4 @@ import greet from './greet.js'
 
 const styledMessage = chalk.bgGreen.black(greet('Musa'));
 console.log(styledMessage);
+
